@@ -25,6 +25,7 @@ A simple and elegant Weather Search App built using HTML, Bootstrap 5, and Vanil
 
 • WeatherAPI.com for live weather data
 
+
 **📁 Project Structure**
 
 weather-app/
@@ -32,6 +33,7 @@ weather-app/
 ├── index.html # Main UI layout with Bootstrap styling
 
 ├── script.js # Handles API fetch, DOM updates, and events
+
 
 
 **🔧 Setup Instructions**
@@ -45,9 +47,11 @@ weather-app/
 • Enter a city name and hit 'Search'.
 
 
+
 **📸 Screenshot**
 
 ![image](https://github.com/user-attachments/assets/0eaf7fa0-912a-43dd-ba1e-67bcc01d7254)
+
 
 
 **📌 Notes**
