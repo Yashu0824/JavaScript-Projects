@@ -32,8 +32,9 @@ weather-app/
 ├── index.html # Main UI layout with Bootstrap styling
 
 ├── script.js # Handles API fetch, DOM updates, and events
-**
-🔧 Setup Instructions**
+
+
+**🔧 Setup Instructions**
 
 • Clone the repository or download the files.
 
@@ -42,8 +43,9 @@ weather-app/
 • Open index.html in your browser.
 
 • Enter a city name and hit 'Search'.
-**
-📸 Screenshot**
+
+
+**📸 Screenshot**
 
 ![image](https://github.com/user-attachments/assets/0eaf7fa0-912a-43dd-ba1e-67bcc01d7254)
 
