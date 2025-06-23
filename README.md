@@ -58,4 +58,3 @@ weather-app/
 
 Make sure your Weather API key is active and valid. This app is for educational and demo purposes. For production, consider error handling improvements and optimizations.
 
-**✨ Made💻by [Yash Vagadiya]**
