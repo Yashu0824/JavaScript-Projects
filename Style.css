@@ -1,0 +1,8 @@
+#weather-card {
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
+
+#weather-icon {
+    width: 80px;
+}
