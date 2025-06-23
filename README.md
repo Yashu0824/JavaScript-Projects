@@ -13,8 +13,9 @@ A simple and elegant Weather Search App built using HTML, Bootstrap 5, and Vanil
 • Fully asynchronous using Fetch API
 
 • No external frameworks—just plain HTML, JS, and Bootstrap
-**
-🛠️ Technologies Used**
+
+
+**🛠️ Technologies Used**
 
 • HTML5
 
@@ -24,16 +25,16 @@ A simple and elegant Weather Search App built using HTML, Bootstrap 5, and Vanil
 
 • WeatherAPI.com for live weather data
 
-**** 📁 Project Structure****
+**📁 Project Structure**
 
 weather-app/
 
 ├── index.html # Main UI layout with Bootstrap styling
 
 ├── script.js # Handles API fetch, DOM updates, and events
-
-**🔧 Setup Instructions
 **
+🔧 Setup Instructions**
+
 • Clone the repository or download the files.
 
 • Replace the Weather API key in script.js with your own from WeatherAPI.com:
@@ -47,7 +48,7 @@ weather-app/
 ![image](https://github.com/user-attachments/assets/0eaf7fa0-912a-43dd-ba1e-67bcc01d7254)
 
 
-**** 📌 Notes****
+**📌 Notes**
 
 Make sure your Weather API key is active and valid. This app is for educational and demo purposes. For production, consider error handling improvements and optimizations.
 
